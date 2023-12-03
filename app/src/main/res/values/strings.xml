@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RGBColors</string>
+    <string name="aviso">Debe indicar un valor de 2 digitos para cada uno de los 3 canales</string>
+</resources>
